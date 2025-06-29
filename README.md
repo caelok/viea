@@ -1,49 +1,68 @@
-![Open Graph, Waitlist](https://github.com/basehub-ai/waitlist-template/blob/main/public/waitlist-template.png?raw=true)
+<div align="center">
 
-[BaseHub Templates](https://basehub.com/templates) are production-ready website templates, powered by BaseHub.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e499dfa4-45be-4f89-b2af-d28ffb48e8af" height="200px">
+</div>
 
-# Waitlist Template
+Shape ideas, not prompts. — _AI-native 3D generation and editing platform_
 
-[![Use template](https://basehub.com/template-button.svg)](https://basehub.com/basehub/waitlist-template)
+[Join Waitlist](https://viea.vercel.app)
 
-Fully featured Waitlist Template.
+</div>
 
-- 🔸 Ideal for startups and indie hackers seeking to build a waitlist for early adopters
-- 🔸 Allows for sending personalized emails to subscribers, encouraging interaction and excitement, all in BaseHub.
-- 🔸 Fully customizable to match your brand's voice and style
-- 🔸 Seamlessly integrates with BaseHub, ensuring a smooth process for managing your waitlist and sending newsletters
+## Overview
 
-## Stack
+VIEA transforms text into editable 3D forms through an intuitive, AI-powered workflow. Create, iterate, and collaborate in real-time, directly from your browser.
 
-- Next.js
-- BaseHub
-- Tailwind CSS
+## Key Features
 
-## One Click Deployment
+- **Intuitive Generation**  
+  Transform ideas into 3D models using natural language
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fbasehub-ai%2Fwaitlist-template&integration-ids=oac_xwgyJe0UwFLtsKIvIScYh0rY&project-name=waitlist-template&repository-name=waitlist-template&redirect-url=https%3A%2F%2Fbasehub.com%2Fapi%2Fvercel%2Fredirect-repo&env=RESEND_TOKEN&external-id=mly6i259eym3jkyvq6txyciu%3AQpFqhzC2n0yFl4DNHmCJL%3Aread%3A%3Cbasehub-null-value%3E%3A%3Cbasehub-null-value%3E%3A%3Cbasehub-null-value%3E&teamSlug=basehub&envDescription=Get%20your%20env%20token%20in%20https%3A%2F%2Fresend.com&envLink=https%3A%2F%2Fresend.com)
+- **Real-time Collaboration**  
+  Work together seamlessly in a browser-based environment
 
-_You can deploy this anywhere. Vercel works nicely and with one click._
+- **AI-Native Workflow**  
+  Optimized for creative flow and rapid iteration
 
-## Local Development
+- **Decentralized Economy**  
+  Powered by VIA, our native currency system
 
-**Install dependencies**
+## Getting Started
 
-```bash
-pnpm i
-```
+Experience VIEA by joining our early access program:
 
-**Add your BASEHUB_TOKEN to `.env.local`**
+1. Access [viea.vercel.app](https://viea.vercel.app)
+2. Register your details
+3. Receive priority access to our platform
 
-```txt
-# .env.local
+## Premium Solutions
 
-BASEHUB_TOKEN="<get-it-from-your-basehub-repo>"
-RESEND_API_KEY="" # get it here https://resend.com/
-```
+| Features & Capabilities | Basic | Professional | Enterprise |
+|------------------------|-------|--------------|------------|
+| Base Credits           | ✓     | ✓           | ✓          |
+| Enhanced Capabilities  | -     | ✓           | ✓          |
+| Priority Support       | -     | -           | ✓          |
+| Monthly Cost          | Free  | €20         | €50        |
 
-**Start the dev server**
+## Built for Professional Creators
 
-```bash
-pnpm dev
-```
+**Performance**  
+Rapid generation and iteration capabilities
+
+**Control**  
+Advanced editing and refinement tools
+
+**Accessibility**  
+Browser-based platform for seamless workflow
+
+**Collaboration**  
+Integrated team features for efficient cooperation
+
+<div align="center">
+
+---
+
+Designed for all artists. — [Begin Your Journey](https://viea.vercel.app)
+
+</div>
